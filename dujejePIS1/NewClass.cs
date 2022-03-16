@@ -8,7 +8,7 @@ namespace dujejePIS1
     {
         int metoda()
         {
-            return 0;
+            return 4576;
         }
     }
 }
