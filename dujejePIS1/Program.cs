@@ -8,6 +8,7 @@ namespace dujejePIS1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("novo novo");
+            Console.WriteLine("novo od kolaboratora");
         }
     }
 }
