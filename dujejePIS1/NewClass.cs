@@ -6,5 +6,9 @@ namespace dujejePIS1
 {
     class NewClass
     {
+        int metoda()
+        {
+            return 4576;
+        }
     }
 }
